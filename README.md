@@ -34,7 +34,7 @@ https://1drv.ms/p/s!AhnW3ZMlwa19hhquGveokiqcyWXu?e=bjVveF
 ## Използвани технологии
 * [AI WAVE 2016 wheel config](http://www.aiwave.fr/wc_updates/1033...onfig_0.21.exe) - *За конфигуриране настройките на волана и педалите*
 * [XLoader](https://drive.google.com/file/d/0B4ZReHKFPKsBN01SMUdfbS11OWc/view?usp=drive_open) - *Качва hex файлове към микроконтролера*
-* [FIRMWARE](http://www.aiwave.fr/downloads/FFBWh...6.leonardo.hex (ДЕСЕН БУТОН -> Запазване на файловете като... -> Запазване)) - *Това е файлът, който се качва в микроконтролера*
+* [FIRMWARE](http://www.aiwave.fr/downloads/FFBWh...6.leonardo.hex (ДЕСЕН БУТОН -> Запазване на файловете като... -> Запазване)) - *(ДЕСЕН БУТОН -> Запазване на файловете като... -> Запазване)Това е файлът, който се качва в микроконтролера*
 
 ## Информация за авторите на проекта
 * **Борис Соколов** - *хардуерист/софтуерист* - [BorisSokolov11](https://github.com/BorisSokolov11)
