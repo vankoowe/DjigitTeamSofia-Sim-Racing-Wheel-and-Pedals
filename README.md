@@ -37,5 +37,5 @@ https://1drv.ms/p/s!AhnW3ZMlwa19hhquGveokiqcyWXu?e=bjVveF
 * [FIRMWARE](http://www.aiwave.fr/downloads/FFBWh...6.leonardo.hex(ДЕСЕН БУТОН -> Запазване на файловете като... -> Запазване)) - *Това е файлът, който се качва в микроконтролера*
 
 ## Информация за авторите на проекта
-**Борис Соколов** - *хардуерист/софтуерист* - [BorisSokolov11](https://github.com/BorisSokolov11)
-**Иван Гамов** - *хардуерист/софтуерист* - [vankoowe](https://github.com/vankoowe)
+* **Борис Соколов** - *хардуерист/софтуерист* - [BorisSokolov11](https://github.com/BorisSokolov11)
+* **Иван Гамов** - *хардуерист/софтуерист* - [vankoowe](https://github.com/vankoowe)
