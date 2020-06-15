@@ -29,7 +29,7 @@ https://1drv.ms/p/s!AhnW3ZMlwa19hhquGveokiqcyWXu?e=bjVveF
 
 2)Изтегляте програмите и файла които се намират по-долу в описанието.
 
-3)Стартирате XLoader. С него качвате hex файла(FIRMWARE) на микроконтролера. И последната стъпка е да направете удобна за вас и избраната игра конфигурация от AI WAVE 2016 wheel config.
+3)Стартирате XLoader. С него качвате hex файла(FIRMWARE) на микроконтролера. И последната стъпка е да направите удобна за вас и избраната игра конфигурация от AI WAVE 2016 wheel config.
 
 ## Използвани технологии
 * [AI WAVE 2016 wheel config](http://www.aiwave.fr/wc_updates/1033...onfig_0.21.exe) - *За конфигуриране настройките на волана и педалите*
@@ -39,3 +39,11 @@ https://1drv.ms/p/s!AhnW3ZMlwa19hhquGveokiqcyWXu?e=bjVveF
 ## Информация за авторите на проекта
 * **Борис Соколов** - *хардуерист/софтуерист* - [BorisSokolov11](https://github.com/BorisSokolov11)
 * **Иван Гамов** - *хардуерист/софтуерист* - [vankoowe](https://github.com/vankoowe)
+
+## Снимки
+![](pictures/our-project.jpg)
+![](pictures/pedals1.jpg)
+![](pictures/pedals2.jpg)
+![](pictures/inside.jpg)
+![](pictures/back-view.jpg)
+![](pictures/in-action.jpg)
